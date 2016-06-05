@@ -96,3 +96,5 @@ http://www.zkoss.org/  ZK is the best open source Java framework for building en
 
 ## 公益  
 http://ebresearch.org/  
+
+test weekly
